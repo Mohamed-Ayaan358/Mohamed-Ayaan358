@@ -12,7 +12,8 @@ I'm Mohamed Ayaan from Bangalore,India and i am an aspiring full stack developer
 
 I have a wix website for my blog:https://ayaan35813.wixsite.com/website-1
 
-##Skills and experience
+##Skills and experience:
+
 -🐍Pythom (Intermediate)
 -💻HTML,CSS,JS (Intermediate)
 -🦚Java
