@@ -5,11 +5,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on village information repository.
 - 🌱 I’m currently learning javascript.
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with django.
-- 💬 Ask me about ...
 - 📫 How to reach me: www.linkedin.com/in/mohamed-ayaan-1750311b8.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: If you want an idea you want to make into a business i could help with that.
 
-<img src=https://github-readme-stats.vercel.app/api?username=Mohamed-Ayaan358&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515>
+I'm Mohamed Ayaan from Bangalore,India and i am an aspiring full stack developer proficient in Python,HTML5,CSS3 and currently learning JavaScript.I am also learning to make 3D Images
+and learn professional video editing.
+
+I have a wix website for my blog:https://ayaan35813.wixsite.com/website-1
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Ayaan358)](https://github.com/anuraghazra/github-readme-stats)
+
