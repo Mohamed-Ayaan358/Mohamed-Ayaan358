@@ -14,10 +14,10 @@ I have a wix website for my blog:https://ayaan35813.wixsite.com/website-1
 
 ##Skills and experience:
 
--🐍Pythom (Intermediate).
--💻HTML,CSS, (Intermediate).
--💻JS(Basic).
--🦚Java(Basic).
+- 🐍Python (Intermediate).
+- 💻HTML,CSS, (Intermediate).
+- 💻JS(Basic).
+- 🦚Java(Basic).
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Ayaan358)](https://github.com/anuraghazra/github-readme-stats)
