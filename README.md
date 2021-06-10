@@ -1,6 +1,6 @@
-### Hi there 👋
+ 
+### Hi there 👋<img align="right" alt="Coding" width="480" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
- <img align="right" alt="Coding" width="480" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 - 🌱 I’m currently learning javascript.
 - 🤔 I’m looking for help with django.
