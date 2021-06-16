@@ -15,7 +15,7 @@
 - 🦚Java(Basic).
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Ayaan358&show_icons=true&theme=tokyonght)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Ayaan358&show_icons=true&theme=tokyonight)
 
 
 
