@@ -10,7 +10,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img align=" left"src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Ayaan358&show_icons=true&theme=tokyonight)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ayaan358&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
