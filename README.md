@@ -22,6 +22,6 @@
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
 
-[linkedin]: www.linkedin.com/in/mohamed-ayaan-1750311b8
+[linkedin]: https://www.linkedin.com/in/mohamed-ayaan-1750311b8/
 [instagram]: https://www.instagram.com/ayaan_8/
 [email]: mailto:ayaan35813@gmail.com
