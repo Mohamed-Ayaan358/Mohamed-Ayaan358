@@ -7,8 +7,15 @@
  - I am currently attempting to become self sufficient in all aspects of website design
 
 <h2> My current Tech Stack : </h2>
-<img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img align=" left"src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/> 
+<img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+<img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="left" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
+<hr />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Ayaan358&show_icons=true&theme=tokyonight)
 
