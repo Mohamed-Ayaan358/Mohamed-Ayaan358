@@ -17,10 +17,6 @@
 
 <hr />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Ayaan358&show_icons=true&theme=tokyonight)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ayaan358&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2> Connect with me: </h2>
