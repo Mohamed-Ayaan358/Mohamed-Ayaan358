@@ -16,8 +16,9 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 <hr />
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
+<img src="https://api.githubtrends.io/user/svg/Mohamed-Ayaan358/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=dark">
+<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamed-Ayaan358&theme=github_dark" />
 
 
 
