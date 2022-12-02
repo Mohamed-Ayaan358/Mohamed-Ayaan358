@@ -16,6 +16,8 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 <hr />
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
 
 
 
