@@ -2,14 +2,13 @@
 
 <h2>About me : </h2>
 
- - I love designing websites and I am trying to make apps on my accord
+ - Would want nothing more to be left with a some databases and a dirty backend.
  - Studying CSE at PES University
- - I am currently attempting to become self sufficient in all aspects of website design
+ - I am currently attempting to become good at backend.
 
 <h2> My current Tech Stack : </h2>
 <img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/> 
-<img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-<img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" src="https://www.rust-lang.org/logos/rust-logo-64x64.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
@@ -22,7 +21,7 @@
 
 
 
-<h2> Connect with me: </h2>
+<h2> Hit me up if you want to make something cool </h2>
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
