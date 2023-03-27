@@ -2,7 +2,7 @@
 
 <h2>About me : </h2>
 
- - Would want nothing more to be left with a some databases and a dirty backend.
+ - Would want nothing more to be left with some databases and a dirty backend.
  - Studying CSE at PES University
  - I am currently attempting to become good at backend.
 
