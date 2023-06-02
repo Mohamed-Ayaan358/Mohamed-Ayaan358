@@ -1,9 +1,9 @@
 <h1>Hey there 👋</h1>
 
-<h2>About me : </h2>
+<h3>About me : </h3>
 Hello there this is my little slice of the internet. I am currently building applications utilising Rust and Javascript, If you wish to build something together please do contact me !
 
-<h2> My current Tech Stack : </h2>
+<h3> My current Tech Stack : </h3>
 <img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/> 
 <img align="left" src="https://www.rust-lang.org/logos/rust-logo-64x64.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
