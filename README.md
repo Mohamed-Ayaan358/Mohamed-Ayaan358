@@ -1,10 +1,7 @@
 <h1>Hey there 👋</h1>
 
 <h2>About me : </h2>
-
- - Would want nothing more to be left with some databases and a dirty backend.
- - Studying CSE at PES University
- - I am currently attempting to become good at backend.
+Hello there this is my little slice of the internet. I am currently building applications utilising Rust and Javascript, If you wish to build something together please do contact me !
 
 <h2> My current Tech Stack : </h2>
 <img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/> 
@@ -12,11 +9,12 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img  src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
 
 <hr />
 
-<img src="https://api.githubtrends.io/user/svg/Mohamed-Ayaan358/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=dark">
+
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamed-Ayaan358&theme=github_dark" />
 
 
