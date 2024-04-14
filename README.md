@@ -18,7 +18,8 @@ Hello there this is my little slice of the internet. I am currently building app
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamed-Ayaan358&theme=github_dark" />
 
 
-<h2> You can visit me [here](https://mayaan.xyz) </h2>
+You can visit me [here](https://mayaan.xyz)
+
 <h2> Hit me up if you want to make something cool </h2>
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
