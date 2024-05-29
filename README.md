@@ -2,6 +2,7 @@
 
 <h3>About me : </h3>
 Hi there this and welcome to my little slice of the internet. I am currently building applications utilising Rust and Javascript, all the while learning about system design in order to build robust applications.
+
 If you are interested in meeting up please do contact me, I am raring to go already !
 
 <h3> My current Tech Stack : </h3>
